@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b020a6-faad-4e5a-b10f-313557971899" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2017-11-01-Introduction-to-fft-python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-01-30-locally-weight-regression.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-05-05-understanding-the-sklearn-design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-06-02-yorubanames-char-rnn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about-me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dense.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/django.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dt-recsys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/feature_union.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fitted_lwr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fitted_scatter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fourier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fractal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/jupyter-problem-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/jupyter-problem-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/jupyter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/linearity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/locally-weighted-regression.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pipeline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pipelines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recsys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/reg-func.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/scatter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/scikit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sklearn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sparse_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/statsmodel_case.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/textgen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/unfitted_lwr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/yorubanames.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-4-async-iterative-patterns-pt1.md" beforeDir="false" afterPath="$PROJECT_DIR$/drafts/2015-10-4-async-iterative-patterns-pt1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-27-async-recursive-patterns-pt2.md" beforeDir="false" afterPath="$PROJECT_DIR$/drafts/2015-12-27-async-recursive-patterns-pt2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-2-1-Tic-Tac-Toe-AI.md" beforeDir="false" afterPath="$PROJECT_DIR$/drafts/2015-2-1-Tic-Tac-Toe-AI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-4-ml-theory-pt3.md" beforeDir="false" afterPath="$PROJECT_DIR$/drafts/2016-12-4-ml-theory-pt3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-9-26-ml-theory-pt2.md" beforeDir="false" afterPath="$PROJECT_DIR$/drafts/2016-9-26-ml-theory-pt2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-9-5-ml-theory-pt1.md" beforeDir="false" afterPath="$PROJECT_DIR$/drafts/2016-9-5-ml-theory-pt1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/blog-author.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/blog-author.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ml-theory-nav.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/ml-theory-nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-603" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minimal-vid.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/minimal-vid.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="menu-search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/menu-search.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="minimal.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/minimal.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="series.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/series.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="author.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/author.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gems</find>
+      <find>blog-author</find>
+      <find>.jpg</find>
+      <find>.png</find>
+      <find>/images/</find>
+      <find>The given</find>
+      <find>2016 Mostafa Samir</find>
+      <find>BSc. in Computer Science</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/assets/images/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_includes/author.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-01-Introduction-to-fft-python.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-02-yorubanames-char-rnn.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-30-locally-weight-regression.md" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-05-understanding-the-sklearn-design.md" />
+        <option value="$PROJECT_DIR$/about.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/_site/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="896" />
+    <option name="y" value="22" />
+    <option name="width" value="784" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="olamyy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olamyy.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olamyy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olamyy.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olamyy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olamyy.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olamyy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olamyy.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drafts" />
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68b020a6-faad-4e5a-b10f-313557971899" name="Default" comment="" />
+      <created>1530625100306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530625100306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="bottom" id="Terminal" weight="0.57565415" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.49234393" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drafts/2017-1-21-auto-diff.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="163">
+            <caret line="606" column="13" selection-start-line="606" selection-start-column="13" selection-end-line="606" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drafts/2016-12-4-ml-theory-pt3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1314">
+            <caret selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-01-Introduction-to-fft-python.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-02-yorubanames-char-rnn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="88" selection-start-line="1" selection-start-column="88" selection-end-line="1" selection-end-column="88" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="e#39#45#0" expanded="true" />
+            <element signature="e#64#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-30-locally-weight-regression.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="390">
+            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-understanding-the-sklearn-design.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="102">
+            <caret line="219" column="16" selection-start-line="219" selection-start-column="16" selection-end-line="219" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/author.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/ml-theory-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-603" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/minimal-vid.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/menu-search.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/minimal.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/series.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

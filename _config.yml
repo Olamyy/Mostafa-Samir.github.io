@@ -2,39 +2,39 @@
 # This file contains configuration flags to customize your site
 #
 
-title: Mostafa Samir's Blog
+title: Olamilekan's Blog
 
-username: Mostafa Samir
-user_description: Wandering in a lifelong journey seeking after truth.
-user_title: Web Developer & Beginner AI Researcher
-email: mostafa.3210@gmail.com
-twitter_username: M0stafa_Samir
-github_username:  Mostafa-Samir
-linkedin_username: m0stafasamir
-disqus_username: mostafa-samir-blog
+username: Olamilekan Wahab
+user_description: Wandering learner.
+user_title: Machine Learning Engineer & Aspiring AI Researcher
+email: olamyy53@gmail.com
+twitter_username: __olamilekan__
+github_username:  olamyy
+linkedin_username: olamilekan-mufrad-wahab-137679120
+disqus_username: fadilolamyywahab
 
 # Name of your site (displayed in the header)
-name: Mostafa Samir
+name: Olamilekan Wahab
 
 # Short bio or description (displayed in the header)
 description: A developer in a lifelong journey seeking after truth.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/5209140?v=2&s=460
+avatar: https://en.gravatar.com/userimage/79281757/c27ea3ef87fda1295b58f60d191c89e8.jpg?size=200
 
 #
 # Flags below are optional
 #
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: mostafa-samir-blog
+disqus: fadilolamyywahab
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-57191995-1
+google_analytics: UA-104393656-1
 
 
 
-url: "https://mostafa-samir.github.io"
+url: "https://olamyyy.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -67,7 +67,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
