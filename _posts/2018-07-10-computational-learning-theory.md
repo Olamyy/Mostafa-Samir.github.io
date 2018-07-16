@@ -40,7 +40,7 @@ produced by the traditional systems.
 
 A machine learning system generates a learning model<sup>*</sup>(rule) from the combination of the data and answer.
 
-This model comprises of :
+This model comprises of:
 
 a.The learning input
 
